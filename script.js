@@ -196,11 +196,11 @@ if (window.location.pathname.includes("/pages/results.html")) {
 
   const scoreGame = JSON.parse(localStorage.getItem("score"))
 
-  const updateUser = {
-    username: signUpUser,
-    email: signUpEmail,
-    score: scoreGame
-  };
+  // const updateUser = {
+  //   username: signUpUser,
+  //   email: signUpEmail,
+  //   score: scoreGame
+  // };
 
 
   //Te traes el documento del user filtrandolo por email, sacas su id y lo metes en una variable, en la misma llamada sacas
@@ -211,9 +211,9 @@ if (window.location.pathname.includes("/pages/results.html")) {
 
   //Logica para actualizar documento de usuario
 
-  await updateDoc(doc(usersRef.doc(idUser), updateUser));
+  // await updateDoc(doc(usersRef.doc(idUser), updateUser));
 
-  let results = `Tu puntaje es de ${counter} sobre 10`;
+  let results = `${counter}/10`;
   document.getElementById("results").innerHTML = results;
   localStorage.setItem("score", JSON.stringify(counter));
 }
