@@ -7,8 +7,10 @@
 
 Welcome to our Random Music Quiz! Test your knowledge with the amazing questions about modern music history.
 
-[Click to visualize the Canva Presentation for this web](https://diananospace4bugs.github.io/Quiz-II/pages/home.html](https://www.canva.com/design/DAFyWmKEvjY/8imXN0QeLPo06j_FVZ1cWw/edit?utm_content=DAFyWmKEvjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Click to visualize the Canva Presentation for this web](https://www.canva.com/design/DAFyWmKEvjY/8imXN0QeLPo06j_FVZ1cWw/edit?utm_content=DAFyWmKEvjY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [Click to visit our quiz page](https://diananospace4bugs.github.io/Quiz-II/pages/home.html)
+
 </div>
 
 
